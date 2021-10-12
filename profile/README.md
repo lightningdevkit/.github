@@ -1,5 +1,5 @@
 ## Hey there 👋
-![An image of the lightning development kit logo](./profile/logo-banner.png)
+![An image of the lightning development kit logo](https://github.com/lightningdevkit/.github/blob/main/profile/logo-banner.png?raw=true)
 
 Lightning Development Kit (LDK) is a library that allows you to build a lightning node without worrying about implementing low-level lightning logic correctly.
 
