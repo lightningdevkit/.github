@@ -5,7 +5,7 @@ Lightning Development Kit (LDK) is a library that allows you to build a lightnin
 
 LDK is based on [Rust-Lightning](https://github.com/rust-bitcoin/rust-lightning), a full-featured but also incredibly flexible lightning implementation, allowing you to decide how to use it.
 
-Learn how to start adding Lightning to your apps at [lightningdev.org](https://lightningdevkit.org/)
+Learn how to start adding Lightning to your apps at [lightningdevkit.org](https://lightningdevkit.org/)
 
 ### 🔨 Contributing to the ecosystem
 We contribute to [Rust-Lightning](https://github.com/rust-bitcoin/rust-lightning), which we rely on to build and run LDK, while also maintaining a number of our own open source projects like:
