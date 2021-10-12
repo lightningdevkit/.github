@@ -1,9 +1,9 @@
 ## Hey there 👋
 ![An image of the lightning development kit logo](./logo-banner.png)
 
-Lightning Development Kit (LDK) is a generic library which allows you to build a lightning node without needing to worry about getting all of the lightning state machine, routing, and on-chain punishment code (and other chain interactions) exactly correct.
+Lightning Development Kit (LDK) is a library that allows you to build a lightning node without worrying about implementing low-level lightning logic correctly.
 
-LDK is based on [Rust-Lightning](https://github.com/rust-bitcoin/rust-lightning), a full-featured but also incredibly flexible lightning implementation, allowing the user to decide how they wish to use it.
+LDK is based on [Rust-Lightning](https://github.com/rust-bitcoin/rust-lightning), a full-featured but also incredibly flexible lightning implementation, allowing you to decide how to use it.
 
 Learn how to start adding Lightning to your apps at [lightningdev.org](https://lightningdevkit.org/)
 
