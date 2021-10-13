@@ -8,7 +8,7 @@ LDK is based on [Rust-Lightning](https://github.com/rust-bitcoin/rust-lightning)
 Learn how to start adding Lightning to your apps at [lightningdevkit.org](https://lightningdevkit.org/)
 
 ### 🔨 Contributing to the ecosystem
-We contribute to [Rust-Lightning](https://github.com/rust-bitcoin/rust-lightning), which we rely on to build and run LDK, while also maintaining a number of our own open source projects like:
+Our team maintains [Rust-Lightning](https://github.com/rust-bitcoin/rust-lightning), which we rely on to build and run LDK, while also maintaining a number of other open source projects like:
  - [LDK C Bindings](https://github.com/lightningdevkit/ldk-c-bindings) - Main LDK C bindings on which other bindings are built
  - [LDK Garbage Collected](https://github.com/lightningdevkit/ldk-garbagecollected) - LDK bindings for garbage-collected languages e.g Java
  - [LDK Swift](https://github.com/lightningdevkit/ldk-swift) - LDK Swift bindings for iOS
