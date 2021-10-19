@@ -13,7 +13,7 @@ Our team maintains [Rust-Lightning](https://github.com/rust-bitcoin/rust-lightni
  - [LDK Garbage Collected](https://github.com/lightningdevkit/ldk-garbagecollected) - LDK bindings for garbage-collected languages e.g Java
  - [LDK Swift](https://github.com/lightningdevkit/ldk-swift) - LDK Swift bindings for iOS
  - [LDK Sample](https://github.com/lightningdevkit/ldk-sample) - Sample node implementation using LDK
- - [LDK Documentation](lightningdevkit.org) - Our open source documentation
+ - [LDK Documentation](https://lightningdevkit.org/) - Our open source documentation
 
 ### 😃 Join our community
 Open source is fundamental to this project and we would love to connect with you.
