@@ -18,6 +18,6 @@ Our team maintains [Rust-Lightning](https://github.com/lightningdevkit/rust-ligh
 ### 😃 Join our community
 Open source is fundamental to this project and we would love to connect with you.
 
-Most of our communication is happening in the LDK [slack channel](https://join.slack.com/t/lightningdevkit/shared_invite/zt-tte36cb7-r5f41MDn3ObFtDu~N9dCrQ), come say hi!
+Most of our communication is happening in the LDK [slack](https://join.slack.com/t/lightningdevkit/shared_invite/zt-tte36cb7-r5f41MDn3ObFtDu~N9dCrQ) and [discord](https://discord.gg/5AcknnMfBw) channels, come say hi!
 
 
