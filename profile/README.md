@@ -19,6 +19,6 @@ Our team maintains [Rust-Lightning](https://github.com/lightningdevkit/rust-ligh
 ### 😃 Join our community
 Open source is fundamental to this project and we would love to connect with you.
 
-Follow the progress of our 2023 priorities [here](https://github.com/orgs/lightningdevkit/projects/3)
+Check out the LDK roadmap [here](https://lightningdevkit.org/blog/ldk-roadmap/)
 
 Most of our communication is happening in the LDK [Discord](https://discord.gg/5AcknnMfBw) server, come say hi!
